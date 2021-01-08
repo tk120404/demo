@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Post 1" , lat:12, long:75.1},
+    { "id": 2, "title": "Post 2" ,lat:13, long:75.2},
+    { "id": 3, "title": "Post 3", lat:14, long:75.3}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
